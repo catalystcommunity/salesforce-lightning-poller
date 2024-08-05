@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/catalystsquad/app-utils-go/errorutils"
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/salesforce-lightning-poller/pkg"
-	pkg2 "github.com/catalystsquad/salesforce-utils/pkg"
+	"github.com/catalystcommunity/app-utils-go/errorutils"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/salesforce-lightning-poller/pkg"
+	pkg2 "github.com/catalystcommunity/salesforce-utils/pkg"
 	"github.com/sirupsen/logrus"
 )
 

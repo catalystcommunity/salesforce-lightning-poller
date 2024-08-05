@@ -12,9 +12,9 @@ Create a new poller using the queries array, and then call `Run()` on the poller
 package main
 
 import (
-    "github.com/catalystsquad/app-utils-go/errorutils"
-    "github.com/catalystsquad/app-utils-go/logging"
-    "github.com/catalystsquad/salesforce-lightning-poller/pkg"
+    "github.com/catalystcommunity/app-utils-go/errorutils"
+    "github.com/catalystcommunity/app-utils-go/logging"
+    "github.com/catalystcommunity/salesforce-lightning-poller/pkg"
 )
 
 func main() {

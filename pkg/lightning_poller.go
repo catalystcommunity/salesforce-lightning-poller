@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/catalystsquad/app-utils-go/errorutils"
-	"github.com/catalystsquad/app-utils-go/logging"
-	"github.com/catalystsquad/salesforce-utils/pkg"
+	"github.com/catalystcommunity/app-utils-go/errorutils"
+	"github.com/catalystcommunity/app-utils-go/logging"
+	"github.com/catalystcommunity/salesforce-utils/pkg"
 	"github.com/dgraph-io/badger/v3"
 	"github.com/go-playground/validator/v10"
 	"github.com/joomcode/errorx"

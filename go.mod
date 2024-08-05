@@ -1,10 +1,10 @@
-module github.com/catalystsquad/salesforce-lightning-poller
+module github.com/catalystcommunity/salesforce-lightning-poller
 
 go 1.18
 
 require (
-	github.com/catalystsquad/app-utils-go v1.0.4
-	github.com/catalystsquad/salesforce-utils v1.0.6
+	github.com/catalystcommunity/app-utils-go v1.0.4
+	github.com/catalystcommunity/salesforce-utils v1.0.6
 	github.com/dgraph-io/badger/v3 v3.2103.2
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/joomcode/errorx v1.1.0
