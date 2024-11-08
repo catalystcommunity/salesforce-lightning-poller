@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/catalystcommunity/salesforce-lightning-poller/compare/v1.4.0...v1.4.1) (2024-11-08)
+
+
+### Bug Fixes
+
+* move to catalystcommunity ([e129616](https://github.com/catalystcommunity/salesforce-lightning-poller/commit/e129616d9e44a6ecff23c153ff483daeac065f05))
+* update catalystcommunity dependency version ([#36](https://github.com/catalystcommunity/salesforce-lightning-poller/issues/36)) ([9f922aa](https://github.com/catalystcommunity/salesforce-lightning-poller/commit/9f922aa2d74380ec969707235e109a56902a3826))
+
 # [1.4.0](https://github.com/catalystcommunity/salesforce-lightning-poller/compare/v1.3.5...v1.4.0) (2024-05-22)
 
 
