@@ -11,7 +11,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.0
 	github.com/joomcode/errorx v1.1.0
 	github.com/samber/lo v1.39.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.15.0
 	github.com/tidwall/gjson v1.14.2
